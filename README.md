@@ -1,8 +1,10 @@
-### Hi there. I'm gyoungseok, Jayden 👋
+## Hi there. I'm gyoungseok, Jayden 👋
 ---
 
-- 🌱 I’m currently learning data analytics
-- SQL, Python, Visualization
+### 🌱 I’m currently learning data analytics
+#### [SQL](https://https://github.com/gyoungseok)
+#### Python 
+#### Visualization
 
 <!--
 2022 BA, business administration, PNU
