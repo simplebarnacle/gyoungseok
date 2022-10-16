@@ -2,7 +2,7 @@
 ---
 
 ### 🌱 I’m currently learning data analytics
-#### [SQL](https://https://github.com/gyoungseok)
+#### [SQL](https://https://github.com/gyoungseok/SQL)
 #### Python 
 #### Visualization
 
