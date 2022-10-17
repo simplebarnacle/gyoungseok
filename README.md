@@ -6,7 +6,7 @@
 
 ###  pre-Data Analyst. I'm gyoungseok, Jayden 👋
 - 🌱 I’m currently learning data analytics
-- [SQL](https://github.com/gyoungseok/SQL)
+- [MYSQL](https://github.com/gyoungseok/SQL)
 - Python 
 - Visualization
 
