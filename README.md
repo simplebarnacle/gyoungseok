@@ -1,6 +1,7 @@
 <div align=center>
 
-It costs nothing to be a good person. I'm gyoungseok, Jayden 👋
+What i only have is dilligence.
+<br>I'm gyoungseok, Jayden 👋
 
 </div>
 
