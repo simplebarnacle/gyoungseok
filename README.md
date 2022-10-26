@@ -1,15 +1,14 @@
 <div align=center>
 
-What i only have is dilligence.
-<br>I'm gyoungseok, Jayden 👋
+<br> 👋 I'm gyoungseok, Jayden
 
 </div>
 
 
 - 🌱 I’m currently learning data analytics
 - [MYSQL](https://github.com/gyoungseok/SQL)
-- Python 
-- Visualization
+- [Python](https://github.com/gyoungseok/Python)
+- [Visualization]
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -19,4 +18,4 @@ What i only have is dilligence.
 ### History
 - [Learning Data Science With Kaggle Practice](https://www.boostcourse.org/certificate/A20221026-394437?langCode=en), 2022
 - BA, business administration, PNU, 2022
-- Data analytics Course, Pusan National University, 2021
+- Data analytics Course, Pusan National University,(840H),2021
