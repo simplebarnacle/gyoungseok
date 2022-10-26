@@ -16,6 +16,9 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### History
-- [Learning Data Science With Kaggle Practice](https://www.boostcourse.org/certificate/A20221026-394437?langCode=en), 2022
 - BA, business administration, PNU, 2022
 - Data analytics Course, Pusan National University,(840H),2021
+
+
+### Certificate
+- [Learning Data Science With Kaggle Practice](https://www.boostcourse.org/certificate/A20221026-394437?langCode=en), 2022
