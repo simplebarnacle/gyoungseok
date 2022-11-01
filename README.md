@@ -9,7 +9,7 @@
 - [MYSQL](https://github.com/gyoungseok/SQL)
 - [Python](https://github.com/gyoungseok/Python)
 - [Tableau](https://github.com/gyoungseok/Tableau)
-- [Blog for Insight](https://blog.naver.com/azd7777)
+- [Blog for Insight](https://blog.naver.com/beingdataanalyst)
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
