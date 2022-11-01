@@ -18,8 +18,9 @@
 
 ### History
 - BA, business administration, PNU, 2022
-- Data analytics Course, Pusan National University,(840H),2021
+
 
 
 ### Certificate
 - [Learning Data Science With Kaggle Practice](https://www.boostcourse.org/certificate/A20221026-394437?langCode=en), 2022
+- Data analytics Course, Pusan National University,(840H),2021
