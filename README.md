@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning data analytics
 - [MYSQL](https://github.com/gyoungseok/SQL)
 - [Python](https://github.com/gyoungseok/Python)
-- [Tableau](https://github.com/gyoungseok/Tableau)
+- [Tableau](https://public.tableau.com/app/profile/jayden)
 - [Blog for Insight](https://blog.naver.com/beingdataanalyst)
 
 ### Languages and Tools:
