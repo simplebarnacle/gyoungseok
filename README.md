@@ -22,5 +22,6 @@
 
 
 ### Certificate
+- [SQL for Basic Data Analysis](https://www.boostcourse.org/certificate/A20221102-415347), 2022
 - [Learning Data Science With Kaggle Practice](https://www.boostcourse.org/certificate/A20221026-394437?langCode=en), 2022
 - Data analytics Course, Pusan National University,(840H),2021
