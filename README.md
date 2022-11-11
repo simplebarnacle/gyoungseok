@@ -1,15 +1,12 @@
 ### 👋 I'm gyoungseok, Jayden:
 - 🌱 I’m currently learning data analytics
-- [MySQL](https://github.com/gyoungseok/SQL)
-- [Python](https://github.com/gyoungseok/Python)
-- [Tableau](https://public.tableau.com/app/profile/jayden)
+
 
 
 ### Portfolio Proect:
-- 
--
--
-
+- [MySQL](https://github.com/gyoungseok/SQL)
+- [Python](https://github.com/gyoungseok/Python)
+- [Tableau](https://public.tableau.com/app/profile/jayden)
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
