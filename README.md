@@ -6,12 +6,12 @@
 ### Portfolio Proect:
 - [MySQL](https://github.com/gyoungseok/SQL)
 - [Python](https://github.com/gyoungseok/Python)
-- [Tableau](https://public.tableau.com/app/profile/jayden)
+<!-- - [Tableau](https://public.tableau.com/app/profile/jayden) -->
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql'></code>
-<code><img height="27" src="https://freepngdesign.com/content/uploads/images/t_tableau-software-5070.png" alt="tableau"></code>
+<!-- <code><img height="27" src="https://freepngdesign.com/content/uploads/images/t_tableau-software-5070.png" alt="tableau"></code> -->
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
