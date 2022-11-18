@@ -18,7 +18,6 @@
 - [Fundamentals of Data Science With Python](https://www.boostcourse.org/certificate/A20221109-086178), 2022
 - [SQL for Basic Data Analysis](https://www.boostcourse.org/certificate/A20221102-415347), 2022
 - [Learning Data Science With Kaggle Practice](https://www.boostcourse.org/certificate/A20221026-394437?langCode=en), 2022
-- Data analytics Course, Pusan National University, 2021
 
 
 ### History
