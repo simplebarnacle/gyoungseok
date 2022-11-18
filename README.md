@@ -26,4 +26,4 @@
 
 
 ### Connect with Me
-- [Blog](https://blog.naver.com/beingdataanalyst)
+- [Blog](https://mydataframe.tistory.com)
