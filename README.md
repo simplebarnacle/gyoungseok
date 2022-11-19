@@ -1,8 +1,6 @@
 ### 👋 I'm gyoungseok, Jayden:
 - 🌱 I’m currently learning data analytics
 
-
-
 ### Portfolio Proect:
 - [MySQL](https://github.com/gyoungseok/SQL)
 - [Python](https://github.com/gyoungseok/Python)
@@ -23,6 +21,3 @@
 ### History
 - BA, business administration, PNU, 2022
 
-
-### Connect with Me
-- [Blog](https://mydataframe.tistory.com)
