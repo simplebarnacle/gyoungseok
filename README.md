@@ -1,4 +1,4 @@
-### I'm gyoungseok, Jayden 👋 :
+### I'm gyoungseok, Jayden :
 - [BLOG](https://mydataframe.tistory.com/) 
 
 ### Languages and Tools:
