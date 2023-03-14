@@ -2,8 +2,11 @@
 - [BLOG](https://mydataframe.tistory.com/) 
 
 ### Languages and Tools:
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"></code>
 <code><img height="27" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png' alt='sql'></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+
+
 
  
 ### Certificate
@@ -17,25 +20,4 @@
 ### History
 - SQLD(SQL개발자), 한국데이터산업진흥원, 2022
 - BA, Business administration, Pusan National University, 2022
-
-
-
-
-
-
-
-
-
-
-<!-- ### Portfolio:
-- [SQL](https://github.com/gyoungseok/SQL)
-- [Python](https://github.com/gyoungseok/Python)
- -->
-
-<!-- ### Languages and Tools:
-<code><img height="27" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png' alt='sql'></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
- -->
 
