@@ -1,12 +1,13 @@
-### I'm gyoungseok, Jayden
-- [BLOG](https://mydataframe.tistory.com/) 
+### I'm, Jayden :)
+- [Resume](URL) 
+- [Blog](https://mydataframe.tistory.com/) 
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"></code>
-<br><br>
+<!-- <br><br>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql'></code>
-
+ -->
 
 
 
