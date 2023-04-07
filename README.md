@@ -1,5 +1,5 @@
 ### I'm, Jayden :)
-- [Resume](URL) 
+- [Resume]
 - [Blog](https://mydataframe.tistory.com/) 
 
 ### Languages and Tools:
